@@ -1,5 +1,5 @@
 {
-  "name": "REST-APIZB",
+  "name": "restapi",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,7 +11,7 @@
     "url": "git+https://github.com/Marcos03324/REST-APIZB.git"
   },
   "keywords": [],
-  "author": "Marcos Henrique",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/Marcos03324/REST-APIZB/issues"
