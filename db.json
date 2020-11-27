@@ -1,0 +1,26 @@
+{
+
+  "user":[
+  {
+    "id": 1,
+    "name": "familia",
+    "xp": 0,
+    "higscore": 0
+  }
+  ],
+  "categoria": [
+    {
+      
+    },
+    {
+      "id": 2,
+      "name": "Numbers  ",
+      "image": ""
+    },
+    {
+      "name": "Teste",
+      "image": "",
+      "id": 3
+    }
+  ]
+}
